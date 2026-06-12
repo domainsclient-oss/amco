@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "AMCO Valves main banner",
+      "imageUrl": "/Amco-Banner.png",
+      "imageHint": "industrial banner"
+    },
+    {
+      "id": "cert-iso",
+      "description": "ISO 9001:2015 Logo",
+      "imageUrl": "/ISO-2015.jpeg",
+      "imageHint": "iso 2015"
+    },
+    {
+      "id": "cert-iso-alt",
+      "description": "ISO Quality Logo",
+      "imageUrl": "/Iso.jpeg",
+      "imageHint": "iso certification"
+    },
+    {
+      "id": "cert-tuv",
+      "description": "TUV Logo",
+      "imageUrl": "/tuv.webp",
+      "imageHint": "tuv logo"
+    },
+    {
+      "id": "cert-tata",
+      "description": "TATA Projects Logo",
+      "imageUrl": "/TATA-Projects-.png",
+      "imageHint": "tata logo"
+    },
+    {
+      "id": "cert-sgs",
+      "description": "SGS Logo",
+      "imageUrl": "/SGS.jpg",
+      "imageHint": "sgs logo"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Valve manufacturing process",
+      "imageUrl": "/Gallery-img-1.webp",
+      "imageHint": "factory valve"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Large flanged valves in warehouse",
+      "imageUrl": "/Gallery-img-2.jpeg",
+      "imageHint": "industrial inventory"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Precision engineering of valve parts",
+      "imageUrl": "/Gallery-img-3.jpeg",
+      "imageHint": "precision engineering"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Finished ball valves ready for shipping",
+      "imageUrl": "/Gallery-img-4.jpg",
+      "imageHint": "quality control"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Industrial valve storage",
+      "imageUrl": "/Gallery-img-5.jpg",
+      "imageHint": "valve storage"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Pipeline installation",
+      "imageUrl": "/Gallery-img-6.jpg",
+      "imageHint": "industrial pipeline"
+    },
+    {
+      "id": "gallery-7",
+      "description": "Advanced metal fabrication",
+      "imageUrl": "/Gallery-img-7.jpg",
+      "imageHint": "metal manufacturing"
+    },
+    {
+      "id": "gallery-8",
+      "description": "Final quality inspection",
+      "imageUrl": "/Gallery-image-8.jpg",
+      "imageHint": "quality inspection"
+    }
+  ]
+}
